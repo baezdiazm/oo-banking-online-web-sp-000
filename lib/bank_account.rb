@@ -12,4 +12,12 @@ class BankAccount
     @name
   end
 
+  def balance
+    @balance
+  end
+
+  def status
+    @status
+  end
+
 end
