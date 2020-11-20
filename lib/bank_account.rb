@@ -20,4 +20,7 @@ class BankAccount
     @status
   end
 
+  def deposit
+
+  end
 end
